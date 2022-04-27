@@ -7,7 +7,7 @@ java 实现椭圆曲线加密解密算法  (公钥加密，私钥解密)
 
 第一种ECCencryptAndDecrypt1 参照网上教程 https://stevenocean.github.io/2018/08/09/encrypt-and-decrypt-file-with-eth-key.html
 
-第二种ECCencryptAndDecrypt1 参照以太坊[ethereum](https://github.com/ethereum)/**[ethereumj] (https://github.com/ethereum/ethereumj)** 项目。个人建议使用第二种方式。附带测试方法：https://www.tabnine.com/code/java/classes/org.ethereum.crypto.ECIESCoder 
+第二种ECCencryptAndDecrypt2 参照以太坊[ethereum](https://github.com/ethereum)/**[ethereumj] (https://github.com/ethereum/ethereumj)** 项目。个人建议使用第二种方式。附带测试方法：https://www.tabnine.com/code/java/classes/org.ethereum.crypto.ECIESCoder 
 
 
 
